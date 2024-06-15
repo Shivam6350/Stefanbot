@@ -11,7 +11,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Define your bot token
-BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN_HERE'
+BOT_TOKEN = '7339929733:AAHdD-YGmYF2Pu6XRyw1XBZfifjQq__Gt9Q'
 
 # Define command handlers
 def start(update: Update, context: CallbackContext) -> None:
